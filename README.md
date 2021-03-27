@@ -1,1 +1,2 @@
-# ML_from_scratch
+Hi, welcome to my repo. This repo stores the ML models that I implemented with MATLAB (2019) and I am converting them into Python. I finished them along with the course "Machine Learning" by Prof. Andrew Ng. Due to a damage in hardware, I could not find the old code in Matlab. I am redoing all in Python. Thank you for your time and please be patient, it wont be long ;).
+![plot](/Figures/completion.png)
